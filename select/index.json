@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "未来コオロギ",
+  "base_artist": "スピッツ",
+  "createdAt": "2026-03-13T00:22:51.737658Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "未来コオロギ",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_未来コオロギ_スピッツ.txt"
+    }
+  ]
+}
